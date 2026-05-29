@@ -78,7 +78,7 @@ public class ConfigScreen extends Screen {
                     log.error("Error re-authenticating", e);
                     Main.client.setScreen(new ErrorScreen(this, "Error re-authenticating", e.toString()));
                     return null;
-                })).width(74).tooltip(Tooltip.of(Text.of("Warning: Tokens are stored in your home folder."))).build());
+                })).width(74).tooltip(Tooltip.of(Text.of("Warning: Tokens are stored in this Minecraft instance folder."))).build());
 
 
         footerBottom.add(callbackButton(clicked -> {

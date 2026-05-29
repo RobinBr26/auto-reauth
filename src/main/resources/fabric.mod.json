@@ -6,12 +6,12 @@
   "description": "Automatically re-authenticates your session when it expires",
   "icon": "assets/icon.png",
   "authors": [
-    "Connor Slade"
+    "RobinBr26"
   ],
   "contact": {
-    "sources": "https://github.com/Basicprogrammer10/auto-reauth",
-    "homepage": "https://github.com/Basicprogrammer10/auto-reauth",
-    "issues": "https://github.com/Basicprogrammer10/auto-reauth/issues"
+    "sources": "https://github.com/RobinBr26/auto-reauth",
+    "homepage": "https://github.com/RobinBr26/auto-reauth",
+    "issues": "https://github.com/RobinBr26/auto-reauth/issues"
   },
   "license": "MIT",
   "environment": "client",
